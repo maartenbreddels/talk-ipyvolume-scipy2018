@@ -2,8 +2,6 @@ name: scipy2018-ipyvolume
 channels:
   - conda-forge
 dependencies:
-  - pip
-   - http+git://github.com/maartenbreddels/ipyvolume.git@d8c3e17abd12b3fc0c5169eac84466761117ce90
   - jupyterlab >=0.32
   - ipywidgets
   - bqplot
