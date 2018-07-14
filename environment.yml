@@ -8,3 +8,4 @@ dependencies:
   - vaex-core
   - vaex-hdf5
   - vaex-jupyter
+  - cython
