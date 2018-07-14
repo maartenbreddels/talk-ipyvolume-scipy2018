@@ -1,3 +1,3 @@
 pip install 'git+https://github.com/maartenbreddels/ipyvolume.git@d8c3e17abd12b3fc0c5169eac84466761117ce90'
-pip install 'git+https://github.com/gallantlab/pycortex.git@13054a2dc1a773b436b0cbfdd562a8f25154f20b'
 pip install 'git+https://github.com/maartenbreddels/ipywebrtc.git@7b364018501957fb9c778c0ee3d850b88e52f83f'
+pip install 'git+https://github.com/gallantlab/pycortex.git@13054a2dc1a773b436b0cbfdd562a8f25154f20b'
