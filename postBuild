@@ -1,0 +1,1 @@
+pip install 'http+git://github.com/maartenbreddels/ipyvolume.git@d8c3e17abd12b3fc0c5169eac84466761117ce90'
